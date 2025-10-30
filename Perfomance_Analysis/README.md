@@ -6,7 +6,7 @@ This file contains Python source code, a curated dataset (images & labels), requ
 **Confusion matrix**: Some classes perform better than others, indicating possible class imbalance.  
 **Curve Analysis**:  
   - Precision/Recall and F1 curves show high performance at optimal confidence thresholds.  
-  - Confusion matrices highlight main areas where the model confuses similar classes.  
+  - Confusion matrices highlight main areas where the model confuses similar classes.   
 **Label Distribution**: The dataset has a few under-represented classes. Enhancing these may further improve accuracy.  
 - These results indicate a robust model for most classes, but further tuning and data balancing could help the weakest classes.  
 
