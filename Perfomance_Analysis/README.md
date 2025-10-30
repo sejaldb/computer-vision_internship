@@ -1,4 +1,4 @@
-This repository contains Python source code, a curated dataset (images & labels), requirements, and analysis for object detection model training.
+This file contains Python source code, a curated dataset (images & labels), requirements, and analysis for object detection model training.
 
 # Evaluation (based on result)
 **Precision-Recall curve**: Achieves strong average precision across classes, with best mAP@0.5 of 0.856
