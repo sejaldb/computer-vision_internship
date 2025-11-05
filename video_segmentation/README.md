@@ -1,0 +1,3 @@
+- Using FFmpeg, the input video is converted into multiple images (frames).
+- Each frame is segmented using YOLOv8s (Ultralytics) to identify and separate objects.
+- The segmented images are stitched together using FFmpeg to produce the final output video.
