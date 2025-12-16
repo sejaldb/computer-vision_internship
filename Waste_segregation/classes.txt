@@ -1,0 +1,7 @@
+classes:
+cardboard
+plastic
+glass
+paper
+metal
+trash
